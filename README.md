@@ -1,2 +1,1 @@
-# android-reverse-engineering
-Android reverse engineering course
+# Android reverse engineering course
